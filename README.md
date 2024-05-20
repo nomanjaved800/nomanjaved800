@@ -1,16 +1,52 @@
-### Hi there 👋
 
-<!--
-**nomanjaved800/nomanjaved800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there, I'm Muhammad Noaman 👋
+```php
+<?php
 
-Here are some ideas to get you started:
+namespace nomanjaved;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class About extends Me
+{
+    public function getBio(): string
+    {
+        return 'I m a software developer specializing in PHP Laravel and JavaScript.
+                I develop modern technology web applications with popular frameworks like Laravel, Livewire, Vue.js.
+                SaaS,
+                Multi-Tenancy,
+                E-Commerce,
+                RestFull API
+                I develop advanced software with software architectures.';
+    } 
+
+    public function getMore(): array
+    {
+        return [
+            'work' => [
+                'Full Stack Developer - Al-burraq Technologies',
+                'Laravel Developer - Techxolution',
+                'Laravel Developer - Virtual University Of Pakistan'
+            ]
+        ];
+    }
+
+    public function getCurrentState(): array 
+    {
+        return [
+            'working_on' => [
+                'allcalls.io - Allcalls is a remote opportunity in insurance sales with on-demand client leads. Flexible schedule, daily commissions, performance-based promotions, and management opportunities available.',
+                'telaeris.com - Telaeris, Inc. is a US-based software company, specializing in handheld and hands-free safety and physical security solutions to enhance access control and occupancy tracking systems'
+            ],
+            'learning' => [
+                'Advance Programing Techniques',
+                'AI',
+                'Python'
+            ]
+        ];
+    }
+
+    public function getFutureGoal(): string
+    {
+        return 'Contribute to open source.';
+    }
+}
+```
