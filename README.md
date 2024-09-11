@@ -9,8 +9,8 @@ class About extends Me
 {
     public function getBio(): string
     {
-        return 'I m a software developer specializing in PHP Laravel and JavaScript.
-                I develop modern technology web applications with popular frameworks like Laravel, Livewire, Vue.js.
+        return ' I'm a software developer specializing in PHP Laravel and JavaScript.
+                I develop modern technology web applications with popular frameworks like Laravel, Angular, React, Livewire, Vue.js.
                 SaaS,
                 Multi-Tenancy,
                 E-Commerce,
@@ -23,8 +23,8 @@ class About extends Me
         return [
             'work' => [
                 'Full Stack Developer - Al-burraq Technologies',
-                'Laravel Developer - Truetalent.online',
-                'Laravel Developer - Virtual University Of Pakistan'
+                'Full Stack Engineer - Truetalent.online',
+                'PHP Laravel Developer - Baron Tech (Pvt) Limited'
             ]
         ];
     }
