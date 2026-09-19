@@ -1,6 +1,6 @@
 # About Me
 
-I hold a Bachelor's degree in Computer Science with 7 years of experience in web development. I specialize in both front-end technologies like React, Angular, and Vue.js, and back-end frameworks such as PHP and Laravel. I focus on creating high-performance web applications, leading technical projects, and staying updated with the latest technologies to build reliable and cutting-edge solutions.
+I hold a Bachelor's degree in Computer Science with 8 years of experience in web development. I specialize in both front-end technologies like React, Angular, and Vue.js, and back-end frameworks such as PHP and Laravel. I focus on creating high-performance web applications, leading technical projects, and staying updated with the latest technologies to build reliable and cutting-edge solutions.
 
 ## Work Experience
 
